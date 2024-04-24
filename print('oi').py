@@ -20,11 +20,7 @@ while a >= 0:
     #Desconsidera o Número
     if a == 0:
         if a1==0 and a2==0 and a3==0:
-            print(f'a1 = {a1}')
-            print(f'a2 = {a2}')
-            print(f'a3 = {a3}')
             cont = 1
-
             print('Não pode ser colocado mais de 3 zeros consecutivos!')
 
         soma = soma - a1
@@ -56,7 +52,7 @@ while a >= 0:
         a1 = a
         considerados = considerados + 1
         cont = 0
-        print(f'cont = {cont}')
+        
     a = int(input("Digite um número: "))
     
 
