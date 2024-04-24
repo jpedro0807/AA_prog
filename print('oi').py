@@ -1,5 +1,5 @@
 print(30*'=')
-print('  Bem Vindo ao Zero cancela: ')
+print('  Bem Vindo ao Zero cancela')
 print(30*'=')
 
 
